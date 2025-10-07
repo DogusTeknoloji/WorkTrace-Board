@@ -1,0 +1,8 @@
+title: WorkTrace Board
+description: Record page interactions into human-readable steps and XPath/CSS selectors — local-only, no servers.
+theme: minima
+markdown: kramdown
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/<GITHUB_USER>/worktrace-board" }
