@@ -2,7 +2,8 @@
 
 This repository hosts the GitHub Pages website for the **WorkTrace Board** Chrome extension.
 
-- Homepage: https://<GITHUB_USER>.github.io/worktrace-board/
-- Privacy: https://<GITHUB_USER>.github.io/worktrace-board/privacy
-- Support: https://<GITHUB_USER>.github.io/worktrace-board/support
-- Changelog:https://<GITHUB_USER>.github.io/worktrace-board/changelog
+- Homepage: https://dogusteknoloji.github.io/WorkTrace-Board/
+- Privacy: https://dogusteknoloji.github.io/WorkTrace-Board/privacy.html
+- Support: https://dogusteknoloji.github.io/WorkTrace-Board/support.html
+- Changelog: https://dogusteknoloji.github.io/WorkTrace-Board/changelog.html
+

@@ -3,7 +3,7 @@ layout: page
 title: Privacy Policy
 ---
 
-**WorkTrace Board – Privacy Policy**  
+**WorkTrace Board – Privacy Policy**
 _Last updated: {{ "now" | date: "%d %b %Y" }}_
 
 ### What the extension does
@@ -22,7 +22,7 @@ Processes page interactions locally to generate test steps and DOM selectors (XP
 
 ### Permissions & purpose
 
-- `activeTab`, `scripting`, `storage`, `clipboardWrite`, _(optional)_ `tabs`, and _(restricted if used)_ `host_permissions`.  
+- `activeTab`, `scripting`, `storage`, `clipboardWrite`, _(optional)_ `tabs`, and _(restricted if used)_ `host_permissions`.
   Used solely to provide the core functionality described above.
 
 ### Sharing & sale of data
@@ -45,4 +45,5 @@ Processes page interactions locally to generate test steps and DOM selectors (XP
 
 ### Contact
 
-- Email: **support@yourdomain.com**
+- Email: **turkuaz.extensions@d-teknoloji.com.tr**
+

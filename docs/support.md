@@ -21,9 +21,10 @@ title: Support
 
 ## Report an issue / request a feature
 
-- GitHub Issues: **https://github.com/<GITHUB_USER>/worktrace-board/issues**
-- Email: **support@yourdomain.com**
+- GitHub Issues: **https://github.com/DogusTeknoloji/WorkTrace-Board/issues**
+- Email: **turkuaz.extensions@d-teknoloji.com.tr**
 
 ## Security
 
-Please avoid sharing sensitive URLs or private data in public issues. For potential vulnerabilities, email **security@yourdomain.com**.
+Please avoid sharing sensitive URLs or private data in public issues. For potential vulnerabilities, email **turkuaz.extensions@d-teknoloji.com.tr**.
+
